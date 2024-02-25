@@ -60,6 +60,6 @@ public class CourseDal:ICourseDal
 
     public void Update(Course course)
     {
-        Console.WriteLine("Eğitmen güncelleme işlemi burada gerekleşecek.");
+        Console.WriteLine("Kurs güncelleme işlemi burada gerekleşecek.");
     }
 }
